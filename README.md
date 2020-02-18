@@ -1,0 +1,1 @@
+Multiples Visualization project. Intended to visualize the ratios of a specific stock against the ratios of each stock in a index fund.
